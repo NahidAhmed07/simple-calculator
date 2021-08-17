@@ -1,0 +1,26 @@
+
+section{
+    height: 100vh;
+}
+.cal-body{
+    width: 360px;
+    height: 390px;
+    border-collapse: collapse;
+}
+
+.cal-display{
+    height: 90px;
+    font-size: 25px;
+}
+
+button{
+    border: 1px solid #c0bebe;
+    background: white;
+    padding: 10px 10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+button:active {
+    background-color: #a8a8a8;
+}
